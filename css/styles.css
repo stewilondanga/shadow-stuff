@@ -3,6 +3,12 @@ body, html {
   margin: 0;
 }
 
+*, *:after, *:before {
+  font-family: Tahoma;
+  font-size: 40px;
+  color: rgba(150, 150, 150);
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -27,11 +33,6 @@ body, html {
 }
 
 
-*, *:after, *:before{
-  font-family:Tahoma;
-  font-size:40px;
-  color:rgba(150,150,150);
-}
 p{
   font-size:20px;
   text-align:center;
