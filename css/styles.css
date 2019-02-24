@@ -56,11 +56,11 @@ div:first-child:after {
   content: "box shadow";
 }
 
-/*div:nth-child(2):after{
-  content:"filter drop shadow";
+div:nth-child(2):after {
+  content: "filter drop shadow";
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
