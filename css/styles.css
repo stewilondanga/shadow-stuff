@@ -52,10 +52,11 @@ div:first-child {
   box-shadow: 0px 0px 5px rgba(0, 0, 0, 1);
 }
 
-/*div:first-child:after{
-  content:"box shadow";
+div:first-child:after {
+  content: "box shadow";
 }
-div:nth-child(2):after{
+
+/*div:nth-child(2):after{
   content:"filter drop shadow";
 }
 
